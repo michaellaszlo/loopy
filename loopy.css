@@ -1,0 +1,50 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.unselectable {
+  -webkit-user-select: none;
+  -khtml-user-drag: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  user-select: none;
+}
+#puzzle {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+#puzzle canvas {
+}
+.pane {
+  position: absolute;
+}
+.display {
+  position: absolute;
+  text-align: center;
+  color: #999;
+  cursor: default;
+}
+.display.correct {
+  color: #50965a;
+}
+.display.incorrect {
+  color: #a82c2c;
+}
+.pane.have .display {
+  color: #999;
+}
+.button {
+  position: absolute;
+  display: inline;
+  padding: 0 8px 4px;
+  font-weight: heavy;
+  color: #ddd;
+  cursor: pointer;
+}
+.button:hover {
+  color: #444;
+}

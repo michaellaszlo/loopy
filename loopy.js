@@ -1,6 +1,6 @@
 var Loop = {
-  numRows: 5,
-  numCols: 5,
+  numRows: 6,
+  numCols: 6,
   size: { cell: 80, edge: 16 },
   button: { left: 2, top: 7 },
   font: {

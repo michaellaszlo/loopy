@@ -13,3 +13,6 @@ There is an extensive analysis on Wikipedia:
 https://en.wikipedia.org/wiki/Slitherlink
 
 If the game seems hard, you're right. It has been shown to be NP-complete.
+
+![Loopy game](screenshot.png)
+

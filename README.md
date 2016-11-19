@@ -1,13 +1,12 @@
 # Loopy
 
-## An implementation of the Loopy game, also known as Slitherlink,
-Takegaki, Fences, and Loop the Loop
+## An implementation of the Loopy game, also known as Slitherlink, Takegaki, Fences, and Loop the Loop
 
 
 ### Background
 
-This is a solution verifier for Loopy. The rules of the game are described
-by Simon Tatham:
+This web page is a solution verifier for Loopy. The rules of the game
+are described by Simon Tatham:
 
 http://www.chiark.greenend.org.uk/~sgtatham/puzzles/doc/loopy.html#loopy
 
